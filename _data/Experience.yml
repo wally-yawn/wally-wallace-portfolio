@@ -2,21 +2,26 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Vertafore
+    role: Sr QA Analyst
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Automated test cases using Serenity framework to ensure robust and reliable software.
+      - Tested external APIs and integrated Postman and SoapUI into agile workflows.
+      - Led security testing initiatives, including coordinating third-party scans.
+      - Mentored junior team members and conducted bootcamp-style learning sessions.
+      - Collaborated with cross-functional teams to refine user stories and estimate development efforts.
+    date: May 2017 -July 2024
+  - title: Simpson Strong-Tie
+    role: QA Engineer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Developed and executed test plans for engineering-related software products.
+      - Provided actionable feedback to developers through defect reporting and workarounds.
+      - Supported offshore teammates and ensured testing quality across distributed teams.
+    date: Oct 2014 - May 2017
+  - title: Epic
+    role: QA Team Lead
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Managed team of 4 QA engineers, balancing leadership with hands-on testing.
+      - Contributed to healthcare software development through comprehensive testing strategies.
+      - Delivered on-site support during customer go-lives, resolving technical challenges.
+    date: Dec 2010 - July 2013
