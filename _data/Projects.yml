@@ -2,20 +2,22 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Smart Gardening ([frontend github](https://github.com/wally-yawn/smart_gardening_fe/)) ([backend github](https://github.com/sethverrill/smart-gardening-be))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - A full stack application where users can input parameters of their garden and make a call to a backend api, which in turn made a call to openai api to get plant recommendations.
+      - As a group, owned the project from conception to deployment, including design work, wireframing, project management, coding and deployment.
+      - "Tech Stack: Ruby on Rails, SQL, HTML, JavaScript, CSS, React, Vercel, Heroku"
+    # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  - title: "Little Shop ([github](https://github.com/wally-yawn/little-shop-fe-final))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Built a mock site where admins can edit merchants and their items using REST APIs.
+      - Modified and enhanced a backend project, incorporating a boilerplate front end.
+      - "Tech Stack: Ruby on Rails, SQL, HTML, JavaScript, CSS"
+    # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "futbol ([github](https://github.com/wally-yawn/futbol))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Developed methods to analyze soccer statistics.
+      - Contributed to complex statistical calculations and CSV data parsing.
+      - Managed project board to ensure smooth team dynamics.
+      - "Tech Stack: Ruby"
+    # image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
